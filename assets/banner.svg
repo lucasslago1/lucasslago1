@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<rect width="1000" height="220" rx="16" fill="#282a36"/>
+<path d="M760 0H1000V220H650Z" fill="#343746"/>
+<g fill="none" stroke="#6272a4" stroke-width="2" opacity=".65"><path d="M820 55h-30l-40 55 40 55h30M900 55h30l40 55-40 55h-30M880 45l-40 130"/></g>
+<rect x="44" y="42" width="5" height="136" rx="2" fill="#bd93f9"/>
+<text x="68" y="91" fill="#f8f8f2" font-family="system-ui, sans-serif" font-size="44" font-weight="700">Lucas Lago</text>
+<text x="70" y="130" fill="#bd93f9" font-family="system-ui, sans-serif" font-size="23">Frontend Engineer · Tech Lead</text>
+<text x="70" y="165" fill="#bfc4d4" font-family="system-ui, sans-serif" font-size="17">Architecture / Performance / Developer Experience</text>
+</svg>
